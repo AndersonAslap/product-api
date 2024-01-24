@@ -1,0 +1,5 @@
+Criar migration pelo console do gerenciado de pacotes => Add-Migration <Name> 
+Pelo ef e em qq terminal => dotnet ef migrations add <Name>
+
+Executar migration pelo console do gerenciado de pacotes => Update-Database
+Pelo ef e em qq terminal => dotnet ef database update
